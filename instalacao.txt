@@ -1,0 +1,21 @@
+Executando códigos javascript no Visual Studio Code
+Posted on setembro 12, 2018 by Breno RdV
+Estava utilizando o Visual Studio Code para um projeto web e percebi que ele não “vem configurado de fabrica’ para rodar arquivos .js. Como esta é uma funcionalidade interessante, resolvi fazer este post para passar como resolvi este ‘problema’.
+
+A forma que eu vou passar não é a única, mas foi a mais simples que eu encontrei.
+
+Para conseguir executar scripts .js no VS Code, faça o seguinte:
+
+Instale o Node.JS;
+Durante a instalação, marque a opção de adicionar as referências do node ao Path da maquina;
+Abre o Visual Studio Code
+Instale a extensão: Code Runner Extension
+Feche e abra novamente o VS Code
+
+Fonte: https://raccoon.ninja/pt/dev-pt/executando-codigos-javascript-no-visual-studio-code/
+
+
+===================
+
+
+npm install readline-sync
